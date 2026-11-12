@@ -3,7 +3,7 @@
 #include <time.h>
 
 #define VECTOR_SIZE 3
-#define NUM_VECTORS 6
+#define NUM_VECTORS 10
 
 double dot_product(double *v1, double *v2, int size) {
     double result = 0.0;
